@@ -46,7 +46,7 @@ while True:
 
 
             #oblicz przesunięcie SNEKA
-            przesuniecie = myszaX - (SNEK_szer / 2)
+            przesuniecie = myszaX - (SNEK_szer / 3)
             przesuniecie = myszaY - (SNEK_wys / 2)
             #jeżeli wykracza poza ekran w prawo
             if przesuniecie > oknogry_szer - SNEK_szer:
