@@ -67,4 +67,4 @@ while True:
 
     #zaktualizuj okno i wyświetl
     pygame.display.update()
-
+#aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
